@@ -231,9 +231,9 @@
     letter-spacing: 1px;
     font-weight: bold;
     color: #80330f;
-    text-align: center;
+    text-align: left;
     padding-block: 30px;
-    padding-right: 14em;
+    padding-inline: 5em;
   }
   .articolo {
     display: flex;
@@ -245,9 +245,8 @@
     letter-spacing: 1px;
     font-weight: bold;
     color: #80330f;
-    text-align: center;
+    text-align: left;
     padding-block: 10px;
-    padding-right: 17em;
   }
   .articolo p {
     color: #80330f;
@@ -371,22 +370,26 @@
   }
   h2 {
     font-size: 28px;
+    letter-spacing: 1px;
+    font-weight: bold;
+    color: #80330f;
     text-align: left;
-    padding-right: 0;
+    padding-block: 30px;
+    padding-inline: 5em;
   }
   .articolo {
     display: flex;
     background-color: #fef7e2;
     margin-bottom: 20px;
+    flex-direction: row;
   }
   .articolo h3 {
     font-size: 20px;
     letter-spacing: 1px;
     font-weight: bold;
     color: #80330f;
-    text-align: center;
+    text-align: left;
     padding-block: 10px;
-    padding-right: 17em;
   }
   .articolo p {
     color: #80330f;
