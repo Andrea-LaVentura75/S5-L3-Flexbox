@@ -52,7 +52,8 @@
   }
   .containerProdottoShop img {
     width: 100%;
-    border-radius: 13px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
   }
   .infoShop {
     display: inline-block;
@@ -182,7 +183,8 @@
   }
   .containerProdottoShop img {
     width: 100%;
-    border-radius: 13px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
   }
   .infoShop {
     display: inline-block;
@@ -324,7 +326,8 @@
   }
   .containerProdottoShop img {
     width: 100%;
-    border-radius: 13px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
   }
   .infoShop {
     display: inline-block;
